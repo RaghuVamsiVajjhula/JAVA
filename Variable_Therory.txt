@@ -1,0 +1,38 @@
+ A variable is a place holder for a value that behaves according to the value it consists.
+ There are numbers,words,sentences, boolean values and more which we can store in variables.
+
+There are many types of   DATA TYPES.Mostly used types are:
+1.integer- takes 4 bytes  -2billion to 2 billion.
+ 2.boolean  -takes 1 bit    -true or false.
+ 3.double   -takes 8 bytes  -fractional number upto 15 digits EX:3.123131313...
+ 4.char      -takes 2 bytes -single character like EX: 'f'
+ 5.String       -variable size      -sequence of characters.
+
+ Here string is a reference data type
+ Remaining are primitive data type.
+  
+  primitive data types:
+  1.  8 types (boolean,byte,etc..)
+  2.    stores data
+  3.    can hold more than 1 value
+  4.    Consists of less memory.
+  5.    It is faster.
+
+
+  reference data types:
+1.  unlimited(bcoz they are user defined.)
+2.  stores address
+3.  can hold more than 1 value
+4.  Consists more memory.
+5.  It is slower.
+
+
+Declaration of a variable    ->STEP 1
+int x;
+
+Assignment of variable         ->STEP 2
+x=100;
+
+Initialisation of variable      ->STEP 3
+int x=100;
+
